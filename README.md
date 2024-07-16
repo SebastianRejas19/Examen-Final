@@ -27,6 +27,6 @@ python run.py
 ***Comprobamos que el code funciona***
 - Contactos:
   <p align="center">
-  <img src="contactos.png" alt="Contactos">
+  <img src="s1.png" alt="Contactos">
 </p>
 
