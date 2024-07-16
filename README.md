@@ -64,5 +64,15 @@ Qué casos de prueba nuevos serían necesarios?
 Los casos de prueba existentes garantizan que no se introduzcan errores en la funcionalidad existente?
 
 - Clases/métodos
+        - Agregar un atributo para registrar las transferencias diarias:
+                  En la clase Cuenta, agregar un atributo para llevar el registro de las transferencias realizadas en el día actual.
+
+        - Modificar el método pagar para incluir la lógica del límite diario:
+                  En la función pagar del archivo app.py, se debe añadir lógica para verificar si la transferencia excede el límite diario de 200 soles.
+
+       
 - Casos de prueba necesarios
 - Garantía de los casos existentes
+
+
+      
