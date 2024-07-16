@@ -47,10 +47,22 @@ python run.py
   <img src="s4.png" alt="Historial">
 </p>
 
-# Pregunra 2
+# Pregunta 2
 Realizar 5 pruebas unitarias: 2 de caso de éxito y 3 de error. Incluir las pruebas unitarias en el mismo repositorio Github.
 Adicionar comentarios en cada prueba indicando el caso de prueba.
 Las pruebas unitarias deben ser sobre los objetos y no sobre los “GET”.
 
-Caso de éxito:
+Archivo de pruebas: `test_app.py`
 
+Correr test: `python -m unittest test_app.py`
+
+# Pregunta 3
+
+Se requiere realizar un cambio en el software para que soporte un valor máximo de 200 soles a transferir por día.
+Qué	cambiaría	en	el	código (Clases / Métodos) - No realizar la implementación, sólo descripción.
+Qué casos de prueba nuevos serían necesarios?
+Los casos de prueba existentes garantizan que no se introduzcan errores en la funcionalidad existente?
+
+- Clases/métodos
+- Casos de prueba necesarios
+- Garantía de los casos existentes
