@@ -1,4 +1,7 @@
 # Examen-Final
+Integrantes Grupo 8
+- Yacira Nicol Campoverde San Martín
+- Sebastian Rejas Berrios
 # Billetera Electrónica
 
 ## Descripción
