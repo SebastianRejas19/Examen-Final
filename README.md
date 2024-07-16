@@ -17,6 +17,8 @@ Ejecutar la Aplicación:
 python run.py
 ```
 
+#  Pregunta 1
+
 ## Endpoints
 - `/billetera/contactos?minumero=XXXX`
 - `/billetera/pagar?minumero=XXXX&numerodestino=YYYY&valor=ZZZZ`
@@ -45,4 +47,10 @@ python run.py
   <img src="s4.png" alt="Historial">
 </p>
 
+# Pregunra 2
+Realizar 5 pruebas unitarias: 2 de caso de éxito y 3 de error. Incluir las pruebas unitarias en el mismo repositorio Github.
+Adicionar comentarios en cada prueba indicando el caso de prueba.
+Las pruebas unitarias deben ser sobre los objetos y no sobre los “GET”.
+
+Caso de éxito:
 
