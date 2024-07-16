@@ -30,3 +30,19 @@ python run.py
   <img src="s1.png" alt="Contactos">
 </p>
 
+- Pagar (100):
+    <p align="center">
+  <img src="s2.png" alt="Pagar">
+</p>
+
+- Pagar (50):
+    <p align="center">
+  <img src="s3.png" alt="Pagar_">
+</p>
+
+- Historial:
+    <p align="center">
+  <img src="s4.png" alt="Historial">
+</p>
+
+
