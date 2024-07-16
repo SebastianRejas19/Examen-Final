@@ -24,7 +24,12 @@ python run.py
 - `/billetera/pagar?minumero=XXXX&numerodestino=YYYY&valor=ZZZZ`
 - `/billetera/historial?minumero=XXXX`
 
-
+```
+Contactos: http://127.0.0.1:5000/billetera/contactos?minumero=21345
+Pagar_100: http://127.0.0.1:5000/billetera/pagar?minumero=21345&numerodestino=123&valor=100
+Pagar_50: http://127.0.0.1:5000/billetera/pagar?minumero=123&numerodestino=456&valor=50
+Historial: http://127.0.0.1:5000/billetera/historial?minumero=123
+```
 
 ***Comprobamos que el code funciona***
 - Contactos:
