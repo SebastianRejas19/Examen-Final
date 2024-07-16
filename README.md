@@ -64,15 +64,20 @@ Qué casos de prueba nuevos serían necesarios?
 Los casos de prueba existentes garantizan que no se introduzcan errores en la funcionalidad existente?
 
 - Clases/métodos
+  
         - Agregar un atributo para registrar las transferencias diarias:
                   En la clase Cuenta, agregar un atributo para llevar el registro de las transferencias realizadas en el día actual.
 
         - Modificar el método pagar para incluir la lógica del límite diario:
                   En la función pagar del archivo app.py, se debe añadir lógica para verificar si la transferencia excede el límite diario de 200 soles.
 
-       
 - Casos de prueba necesarios
+***Caso de Éxito:***
+  Transferencia válida: Probar una transferencia que no exceda el límite diario de 200 soles, asegurando que la operación se complete con éxito.
+***Caso de Error:***
+  Transferencia excede el límite diario: Intentar realizar una transferencia que, sumada a las transferencias del día, supere los 200 soles y verificar que se genere un error o se rechace la operación.
 - Garantía de los casos existentes
+Los casos de prueba existentes garantizan que no se introduzcan errores en la funcionalidad de la billetera electrónica. Esto se debe a que incluyen casos de éxito, como la realización de una transferencia exitosa y la correcta adición de una operación al historial. Además, también contemplan casos de error, como cuando hay saldo insuficiente o cuando la cuenta o el contacto no existen.
 
 
       
